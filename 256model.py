@@ -57,7 +57,7 @@ BATCH_SIZE = 1
 # Each image is 256x256 in size
 IMG_WIDTH = 256
 IMG_HEIGHT = 256
-
+#resize image
 def resize(input_image, real_image, height, width):
   input_image = tf.image.resize(input_image, [height, width],
                                 method=tf.image.ResizeMethod.NEAREST_NEIGHBOR)
