@@ -25,3 +25,8 @@ Test Run 5
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/d0a41b39-2339-4fcd-8ea0-2f6eab6c48b3" width="400"/>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/244a62da-b0c9-4ff5-9463-ee80736796e8" width="400"/>
 
+
+## Plotting Linear Regression btw Area and Production
+
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/23aac992-ea7f-46a2-808e-de18220e69fc" width="500"/>
+
