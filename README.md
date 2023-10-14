@@ -15,11 +15,13 @@ Test Run 3
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b024137e-140e-49d2-88ea-ad85f1749d5c" width="400"/>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/bd3c583b-e2bd-44ec-b96f-b31159e87a1b" width="400"/>
 
-Test Run 2
+Test Run 4
 <br>
-<img src="" width="400"/>
-<img src="" width="400"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/5b5aa6e7-92f8-4e99-9b37-41806992b391" width="400"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/5eaa2245-2c73-4c9b-ac76-5e39680762a5" width="400"/>
 
-
-
+Test Run 5
+<br>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/d0a41b39-2339-4fcd-8ea0-2f6eab6c48b3" width="400"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/244a62da-b0c9-4ff5-9463-ee80736796e8" width="400"/>
 
