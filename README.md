@@ -1,6 +1,6 @@
 ## Satellite Imagery Annotations
 
-<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b098af5d-a639-4c53-a738-7b52dcfcd8d7" width="500"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b098af5d-a639-4c53-a738-7b52dcfcd8d7" width="800"/>
 
 
 ## Segmentation of Sugarcane Fields
@@ -33,5 +33,5 @@ Test Run 5
 
 ## Plotting Linear Regression btw Area and Production
 
-<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/23aac992-ea7f-46a2-808e-de18220e69fc" width="500"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/23aac992-ea7f-46a2-808e-de18220e69fc" width="800"/>
 
