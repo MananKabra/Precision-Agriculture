@@ -1,3 +1,8 @@
+## Satellite Imagery Annotations
+
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b098af5d-a639-4c53-a738-7b52dcfcd8d7" width="500"/>
+
+
 ## Segmentation of Sugarcane Fields
 
 Test Run 1
