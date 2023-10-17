@@ -1,3 +1,8 @@
+## Model Flow Diagrams
+
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/2739c0f3-e060-49cb-915e-cf4192341395" width="400"/>
+
+
 ## Satellite Imagery Annotations
 
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b098af5d-a639-4c53-a738-7b52dcfcd8d7" width="800"/>
