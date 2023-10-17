@@ -1,9 +1,15 @@
-## Model Flow Diagrams
+## Solution Flow Diagrams
 
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/2739c0f3-e060-49cb-915e-cf4192341395" width="800"/>
 <br>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/67ee8aed-48e8-459f-9808-e45953256158" width="800"/>
 
+## Detectron2 (Model_Zoo)
+Detectron2 is an open-source object detection and segmentation framework developed by Facebook AI Research. It is a built on top of PyTorch and provides a unified API for a variety of tasks, including object detection, instance segmentation, and panoptic segmentation. Designed to be flexible and easy-to-use, it puts a focus on enabling rapid research. It includes high-quality implementations of state-of-the-art algorithms like Mask R-CNN, RetinaNet, and DensePose. From the detectron2 framework, we are using the Model Zoo for object detection and instance segmentation. 
+<br>
+
+## Layered Architecture Diagram
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/7095ef2b-4592-4b6c-887a-05aa7cfb30ed" width="800"/>
 
 
 ## Satellite Imagery Annotations
