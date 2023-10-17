@@ -2,8 +2,7 @@
 
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/2739c0f3-e060-49cb-915e-cf4192341395" width="800"/>
 <br>
-<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/67ee8aed-48e8-459f-9808-e45953256158" width="400"/>
-<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b1e607ac-dfd2-449f-9b7c-71fd587272de" width="400"/>
+<img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/67ee8aed-48e8-459f-9808-e45953256158" width="800"/>
 
 
 
