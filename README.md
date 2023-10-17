@@ -12,7 +12,14 @@ Detectron2 is an open-source object detection and segmentation framework develop
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/7095ef2b-4592-4b6c-887a-05aa7cfb30ed" width="800"/>
 
 
-## Satellite Imagery Annotations
+## Dataset Generation From Satellite Images
+The dataset was generated from Google Earth. We Downloaded the images of agricultural fields both containing and not containing sugarcane fields from Google Earth Pro Desktop.
+Then Performed Data Augmentation in order to diversify the satellite images. Data Augmentation involves applying various transformations to the existing images, such as rotation, flipping, scaling, and changes in brightness or contrast. 
+Divide the final images dataset into 3 parts - Training, Testing and Validation.
+Then Performed image augmentation using MakeSenseAI, by marking out the sugarcane fields from the images inside a polygon. The polygons are Labelled as Sugarcane Fields.
+A config file a generated after the annotation is completed. The file is of json format containing details about the polygons that were marked, 
+like - size, number, base64 data, shape attributes, all x coordinates and all y coordinates.
+<br>
 
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/b098af5d-a639-4c53-a738-7b52dcfcd8d7" width="800"/>
 
