@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/67ee8aed-48e8-459f-9808-e45953256158" width="800"/>
 
-## Detectron2 (Model_Zoo)
+## Detectron2 Framework (Model_Zoo)
 Detectron2 is an open-source object detection and segmentation framework developed by Facebook AI Research. It is a built on top of PyTorch and provides a unified API for a variety of tasks, including object detection, instance segmentation, and panoptic segmentation. Designed to be flexible and easy-to-use, it puts a focus on enabling rapid research. It includes high-quality implementations of state-of-the-art algorithms like Mask R-CNN, RetinaNet, and DensePose. From the detectron2 framework, we are using the Model Zoo for object detection and instance segmentation. 
 <br>
 
