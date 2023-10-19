@@ -56,6 +56,7 @@ Test Run 5
 
 
 ## Plotting Linear Regression btw Area and Production
-
+Depending on the area of sugarcane field we calculated the yield per year. The dataset used was a historical data of different states. We have plotted a graph using linear regression which shows an accuracy of 95%. The graph was plotted on the basis of area of sugarcane field detected and production per year.
+<br>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/23aac992-ea7f-46a2-808e-de18220e69fc" width="800"/>
 
