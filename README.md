@@ -26,6 +26,8 @@ like - size, number, base64 data, shape attributes, all x coordinates and all y 
 
 
 ## Segmentation of Sugarcane Fields
+The data set that was generated from Google Earth Pro Desktop helped us to detect sugarcane field of a particular area. The area that reflected sugarcane field was highlighted in different colors while the other field was converted to grayscale.
+<br>
 
 Test Run 1
 <br>
