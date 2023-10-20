@@ -1,4 +1,4 @@
-## Solution Flow Diagrams
+## Our Solution Flow Diagrams
 The Sugarcane Field Detection and Yield Prediction project seeks to revolutionize sugarcane farming by employing cutting-edge technologies. Through the integration of image processing and machine learning, the system automates the identification of sugarcane fields using satellite or drone imagery and predicts crop yield based on historical and real-time data. This initiative not only facilitates precision agriculture practices by providing farmers with accurate information about their fields but also contributes to resource efficiency and increased yield. 
 <br>
 <img src="https://github.com/MananKabra/Precision-Agriculture/assets/89775656/2739c0f3-e060-49cb-915e-cf4192341395" width="800"/>
